@@ -1,0 +1,36 @@
+
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+}
+
+#container {
+	text-align: center;
+}
+
+#myImage {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 50px;
+}
+#myButton {
+	padding: 10px 20px;
+	font-size: 16px;
+	text-decoration: none;
+	background-color: #FFB5FC;
+	color: #fff;
+	border-radius: 5px;
+}
+
+#myButton2 {
+	padding: 10px 20px;
+	font-size: 16px;
+	text-decoration: none;
+	background-color: #FFB5FC;
+	color: #fff;
+	border-radius: 5px;
+}
